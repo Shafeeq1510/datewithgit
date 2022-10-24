@@ -1,0 +1,54 @@
+[33mcommit 9ed7ac04565a74dded8bf1ef9c53b128e0ff387e[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Mon Oct 24 02:07:02 2022 -0700
+
+    sample.txt modified
+
+[33mcommit e1e67e4d64f7c79deb1b8e6e03cbc545433f9a5c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Mon Oct 24 02:01:56 2022 -0700
+
+    sample2 modified
+
+[33mcommit 8aa88dbe067e88f0415e4db6098c210ee9fc34a3[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Mon Oct 24 01:50:58 2022 -0700
+
+    Edited sample2.txt
+
+[33mcommit 0c2279d83686a7e3e19e1205c60235d4ae33e51e[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: f44cfa1 e1d7078
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 08:16:58 2022 -0700
+
+    WIP on master: f44cfa1 Sample 2 file editted
+
+[33mcommit e1d707848c1ac2dfa918f1507c0e583151d35b2c[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 08:16:58 2022 -0700
+
+    index on master: f44cfa1 Sample 2 file editted
+
+[33mcommit f44cfa1a5c33e6fd2e376fdd6b442c365a6cc7a9[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 07:41:15 2022 -0700
+
+    Sample 2 file editted
+
+[33mcommit f94302d5c7eee8791b9f0c53e2e1923f5cc3df8d[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 07:23:09 2022 -0700
+
+    Second file added
+
+[33mcommit 389d4dd72c2d4a0831c8ac8c72722438041592ef[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 01:45:57 2022 -0700
+
+    added some messages
+
+[33mcommit 3c5745bb5a66c482b04dcad9bd2aa708bae3d3ca[m
+Author: Shafeeq <shafeeqsha1510@gmail.com>
+Date:   Sun Oct 23 01:32:45 2022 -0700
+
+    Initial commit
