@@ -1,1 +1,2 @@
 This is my first text for sample git 
+Hi how are you
